@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions preparatory to the better, free, and more Christian administration of the Lords Supper by E.F., Esq.</title>
+            <author>Fisher, Edward, fl. 1627-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39521</idno>
+            <idno type="STC">Wing F1000</idno>
+            <idno type="STC">ESTC R14629</idno>
+            <idno type="EEBO-CITATION">12595440</idno>
+            <idno type="OCLC">ocm 12595440</idno>
+            <idno type="VID">64043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 316:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions preparatory to the better, free, and more Christian administration of the Lords Supper by E.F., Esq.</title>
+                  <author>Fisher, Edward, fl. 1627-1655.</author>
+                  <author>Fisher, Edward, fl. 1627-1655. Christian caveat.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Blackmore ... and R. Lowndes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Appendix to his Christian caveat, 1655, with separate register and pagination.</note>
+                  <note>Attributed to Edward Fisher. Cf. BM.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64043:1"/>
+            <pb facs="tcp:64043:1" rendition="simple:additions"/>
+            <p> 
+               <hi>QUESTIONS PREPARATORY TO The better, free, and more Chriſtian ADMINISTRATION</hi> OF THE <hi>Lords Supper.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Jer.</hi> 5. <hi>ver.</hi> 29, 30, 31.</bibl>
+               <p>Shall I not viſit for theſe things ſaith the LORD? Shall not my ſoul be avenged on ſuch a Nation as this? A wonderfull and horrible thing is committed in the land: The Prophets propheſy falſly, and the Priests bear rule by their means, and my people love to have it ſo, and what will ye do in the end thereof?</p>
+            </q>
+            <p>
+               <hi>By</hi> E. F. <hi>Eſq.</hi>
+            </p>
+            <p>LONDON, <hi>Printed for</hi> Edw: Blackmore <hi>at the Angel, and</hi> R. Lowndes <hi>at the White-Lyon in S.</hi> Pauls <hi>Church-yard,</hi> 1655.</p>
+            <pb facs="tcp:64043:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64043:2"/>
+            <head>Queſtions <hi>preparatory to the better, free, and more Chriſtian Adminiſtration of the</hi> Lords Supper.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hether this be a good reaſon; Becauſe <milestone type="tcpmilestone" unit="unspecified" n="I"/> the Prieſts under the Law, did <hi>by GOD's command</hi> keep Lepers and un<g ref="char:EOLhyphen"/>cleane perſons out of the Temple; <note n="a" place="margin">Levit. 13. v. 4. 46. &amp; 2 Chron. 26. v. 20.</note> Therefore the Miniſters under the Goſpel, may <hi>without Chriſts command</hi> keep and ſuſpend whom they them<g ref="char:EOLhyphen"/>ſelves judge <hi>unworthy Receivers</hi> from the Sacrament of the Lords Supper? Whether is ſuch judgment of the Miniſters infallible, and when was it given them? And whether is the Inſtitution, Function, Rule and Authori<g ref="char:EOLhyphen"/>ty of Miniſters under the Goſpel, or ought it to be, equall or like unto that of the Prieſts under the Law?</p>
+            <p>Whether, when Chriſt by ſhedding His moſt precious <milestone type="tcpmilestone" unit="unspecified" n="II"/> blood hath utterly aboliſhed and taken away the very Office of Levites, Prieſts and Prieſthood it ſelf, <note n="b" place="margin">Hebr. 7. v. 11, 12, 18. &amp; 8. v. 13. &amp; 9. v. 10.</note> it be not deceitfull and unchriſtian to alleadge the practice of Levites and Jewiſh Prieſts as a guide for us under the Goſpel? And whether S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> ſaith true, that he that ſubmitteth to <hi>a part</hi> of the Law <hi>is bound to keep the whole Law, renounceth the benefits of Chrict,</hi> and <hi>is fallen from grace?</hi> Galat. 5. v. 2, 3, 4.</p>
+            <p>Whether the power of <hi>binding and looſing</hi> was not <milestone type="tcpmilestone" unit="unspecified" n="III"/> given to the <hi>Church,</hi> 
+               <note n="c" place="margin">Matth. 16. v. 18, 19. com<g ref="char:EOLhyphen"/>pared with ch. 18. v. 17. 18.</note> and not to any particular perſon or Church-Officer? And, whether Suſpenſion from the
+<pb n="2" facs="tcp:64043:3"/> Sacrament be not a branch of that power? And if ſo; Then whether it be not a ſinfull uſurpation and an high preſumption for any man under the fictitious Title of Church-Officer (of which Title we reade not in the Scripture) to take upon him the Churches Authority of <hi>binding and looſing?</hi>
+            </p>
+            <p>Whether this be a good conſequence; Becauſe the <milestone type="tcpmilestone" unit="unspecified" n="IV"/> 
+               <hi>Church of Corinth,</hi> the <hi>Church of Epheſus,</hi> and other Churches did Excommunicate and caſt out of their Churches notorious ſcandalous Offenders and Here<g ref="char:EOLhyphen"/>ticks; <note n="d" place="margin">1 Cor. 1. v. 2. comp with ch. 5. v. 1, 3, 4, 5. Rev. 2. v. 1, 2, 6.</note> Therefore the <hi>Miniſter</hi> may Suſpend whom his conſcience pleaſeth from the Lords Supper?</p>
+            <p>Whether in the 1 <hi>Corinth.</hi> 11. <hi>v.</hi> 28. we ſhould not <milestone type="tcpmilestone" unit="unspecified" n="V"/> read thus; <hi>Let every man examine himſelf, and ſo let him</hi> go to the Miniſter and know of him whether he be fit to <hi>eat of this bread, and drink of this cup?</hi> And if ſo; Then whether the Aſſembly of Divines ought not to amend this Text?</p>
+            <p>Whether, if no example or precept of Scripture can be <milestone type="tcpmilestone" unit="unspecified" n="VI"/> brought for the Miniſters power of Suſpending from the Sacrament, the conſcience of that Miniſter who ex<g ref="char:EOLhyphen"/>erciſeth this power be not ſecretly guided by ſome other Rule than the Word of GOD? And whether the true Rule be not pride, profit, and an ambitious deſire to <hi>ex<g ref="char:EOLhyphen"/>erciſe authority over their Brethren,</hi> which Chriſt hath forbidden? <hi>Matth.</hi> 20. <hi>v.</hi> 25, 26.</p>
+            <p>Whether it doth reaſonably follow; Becauſe GOD's <milestone type="tcpmilestone" unit="unspecified" n="VII"/> renewing of Circumciſion in the time of <hi>Joſhua</hi> 
+               <note n="e" place="margin">Joſh. 5. v. 7.</note>, which Circumciſion had been long before Inſtituted by GOD himſelf, <note n="f" place="margin">Gen 17. v. 10.</note> was no Innovation in the Jewiſh Church; Therefore the bringing in of the Miniſters power of Su<g ref="char:EOLhyphen"/>ſpenſion from the Sacrament, which power Chriſt never ordained nor did the Churches of Chriſt ever approve
+<pb n="3" facs="tcp:64043:3"/> or practice, is no Innovation in the Chriſtian Church?</p>
+            <p>Whether in <hi>Matth.</hi> 7. <hi>v</hi> 6. Chriſt ſpake not thoſe <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> words <hi>to the people</hi> as well as to <hi>his Diſciples;</hi> 
+               <note n="g" place="margin">Matth 5. v 1, 2 &amp; 7. v. 28, 29.</note> and therefore <hi>Ye</hi> in the Text muſt be underſtood as ſpoken to all Chriſtians? And whether thoſe words are not thus to be expounded; <hi>Give ye not that which is holy un<g ref="char:EOLhyphen"/>to dogs,</hi> that is, Offer not, teach ye not my Goſpel unto froward obſtinate men, who render themſelves unwor<g ref="char:EOLhyphen"/>thy of ſo great ſalvation; <hi>Neither caſt ye your pearls be<g ref="char:EOLhyphen"/>fore ſwine,</hi> that is, Neither declare ye my precious and glorious Doctrines, <note n="b" place="margin">Matth. 13. v. 44, 35. comp. with v. 19.</note> which ye have received, unto ſot<g ref="char:EOLhyphen"/>tiſh regardleſſe men, who delight in their iniquities; <hi>Leſt they trample them under their feet, and turn again and rent you,</hi> that is, Leſt they deſpiſe my Doctrines, and ſet themſelves to doe you all manner of miſchief? <note n="i" place="margin">Verbis &amp; verberibus.</note> And if ſo; Then whether ſuch Miniſters as limit the word <hi>Ye</hi> unto themſelves only, contrary to the expreſſe Text; <note n="k" place="margin">Matth. 7. v. 28, 29.</note> and by <hi>that which is holy</hi> and <hi>your pearls</hi> will have meant the Sacrament of the Lords Supper; and by <hi>Dogs</hi> and <hi>Swine,</hi> unworthy Receivers, without Scripture-proofs and even contrary to reaſon, for that Sacrament was not inſtituted till neer two years after this Exhorta<g ref="char:EOLhyphen"/>tion; <note n="l" place="margin">Compare the time of Chriſt's Ser<g ref="char:EOLhyphen"/>mon in the Mount, with John 6. v. 5. &amp; 13. v. 1.</note> be not impudent Wreſters of GOD's holy Word, falſe prophets, and deluders of the people?</p>
+            <p>Whether, when three Evangeliſts, recording the Inſti<g ref="char:EOLhyphen"/>tution <milestone type="tcpmilestone" unit="unspecified" n="IX"/> of the Lords Supper, do moſt expreſly teſtifie, that <hi>Christ then ſate at Table with his</hi> 12. <hi>Diſciples,</hi> amongſt whom particularly is named <hi>Judas Iſcariot;</hi> and that <hi>Chriſt gave the bread and cup to them all,</hi> and that they all did eat of the <hi>bread and drink of the cup;</hi> Nay, when Chriſt himſelf ſaith in the very time and act of celebration, <hi>Behold, the hand of him that betrayeth me is with me at the Table;</hi> 
+               <note n="m" place="margin">Matth. 26. v. 20, 25, 26, 27 Mark 14. v. 17, 18, 22, 23. Luke 22. v. 14. 19, 20, 21.</note> are they not unworthy to be ac<g ref="char:EOLhyphen"/>counted
+<pb n="4" facs="tcp:64043:4"/> Chriſts Miniſters, who ſhall openly queſtion and deny the truth of <hi>Judas</hi> his being there and his par<g ref="char:EOLhyphen"/>taking of the Sacrament? Would not ſuch Miniſters for their own ends deny the whole Scriptures?</p>
+            <p>Whether did not Chriſt <hi>three ſeverall times</hi> to His <milestone type="tcpmilestone" unit="unspecified" n="X"/> Diſciples affirm, <hi>that one of them ſhould betray him:</hi> The Firſt was, <hi>as they were eating the Paſſeover;</hi> and is men<g ref="char:EOLhyphen"/>tioned by S. <hi>Matthew</hi> and S. <hi>Mark,</hi> when the Diſciples <hi>one by one ſaid unto Chriſt, LORD, is it I?</hi> Unto which Chriſt replied in Generall terms, <hi>He it is that dippeth his hand with Me in the diſh:</hi> 
+               <note n="*" place="margin">Matth. 26. v. 21, 22, 23. Mark 14. v. 18, 19, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> The Second time was, <hi>as they were celebrating His Supper;</hi> and is mentioned by S. <hi>Luke,</hi> when <hi>the Diſciples enquired</hi> onely <hi>among them<g ref="char:EOLhyphen"/>ſelves, which of them it was that ſhould doe this thing?</hi> 
+               <note n="†" place="margin">Luke 22. v. 21, 23.</note> The Third time was, <hi>after His Supper;</hi> and is mention<g ref="char:EOLhyphen"/>ed by S. <hi>John,</hi> when (ſaith the Text) <hi>the Diſciples looked one on another, doubting of whom He ſpake,</hi> till at length Peter <hi>beckned to</hi> John, and <hi>John</hi> thereupon <hi>ſaid unto Chriſt, LORD, who is it?</hi> Unto which Chriſt replied in Speciall terms, <hi>He it is to whom I ſhall give a ſop when I have dipped it; and when He had dipped the ſop, He gave it to Judas Iſcariot.</hi> 
+               <note n="*" place="margin">John 13. v. 2, 21, 22, 24, 25, 26.</note> And if ſo; Then whether ſuch Expoſitors doe not miſerably confound as well the Goſpel as themſelves, who diſtinguiſh not <hi>theſe times,</hi> 
+               <note n="†" place="margin">Diſtingue tem<g ref="char:EOLhyphen"/>pora tollitur dubium.</note> but make them all one; and without warrant of Scri<g ref="char:EOLhyphen"/>pture talk of Chriſts Inſtitution of His Supper after the Sop given to <hi>Judas?</hi>
+            </p>
+            <p>Whether to teach that the giving of the Sacrament <milestone type="tcpmilestone" unit="unspecified" n="XI"/> to an <hi>unworthy Receiver</hi> is all one as to put a knife into a mans hand to cut his own throat, be not to reproach the Inſtitution of Chriſt and to make themſelves His Refor<g ref="char:EOLhyphen"/>mers? And whether to teach that the unworthy Recei<g ref="char:EOLhyphen"/>ver eateth and drinketh <hi>the Miniſters damnation,</hi> be not
+<pb n="5" facs="tcp:64043:4"/> repugnant to S. <hi>Paul,</hi> who ſaith, that <hi>he that eateth and drinketh unworthily, eateth and drinketh his own damna<g ref="char:EOLhyphen"/>tion?</hi> 1 Cor. 11. v. 29.</p>
+            <p>Whether to call and adjudge thoſe to be <hi>Dogs, Swine,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="XII"/> 
+               <hi>Hypocrites, Heathens,</hi> and <hi>unworthy Receivers,</hi> who ſub<g ref="char:EOLhyphen"/>mit themſelves to Chriſt's Doctrine and Ordinances, who doe openly witneſſe to the world <hi>their true and ear<g ref="char:EOLhyphen"/>neſt repentance of their ſinnes, their love and charity with their neighbours, and their intention to lead a new life ac<g ref="char:EOLhyphen"/>cording to GOD's Commandements;</hi> be not a raſh, vain, uncharitable cenſure, neither agreeable to Scripture nor reaſon? And whether to term Infants, Fools, and Mad<g ref="char:EOLhyphen"/>men, <hi>Dogs,</hi> can be warranted by Scripture? And whe<g ref="char:EOLhyphen"/>ther to teach that Chriſt, <hi>as he was man,</hi> knew not that <hi>Judas</hi> was an Hypocrite; yet that the Suſpending Mi<g ref="char:EOLhyphen"/>niſters may diſcern an Hypocrite, be not to advance their knowledge above Chriſts? And whether ſuch doctrine be not blaſphemy?</p>
+            <p>Whether to call Miniſters <hi>Fathers, Paſtors,</hi> and <hi>Shep<g ref="char:EOLhyphen"/>herds,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="XIII"/> be not Tropicall expreſſions? And whether may ſound and forcible Demonſtrations be deduced from Tropes and Figures? Whether is this a good reaſon; Becauſe it is the Duty of Fathers to require an accompt of their Children, and of Paſtors and Shepherds to know the ſtate of their flock; Therefore Miniſters may Suſpend whom their conſcience ſhall judge unfit, from the Lord's Supper? Whether are they <hi>Fathers and Shepherds</hi> to Chriſts Flock, who account His Children <hi>Dogs,</hi> and refuſe to give them the Food appointed by Chriſt?</p>
+            <p>Whether the Deſigne of theſe Suſpending Miniſters in <milestone type="tcpmilestone" unit="unspecified" n="XIV"/> preaching up the excellency, worth, and neceſſity of re<g ref="char:EOLhyphen"/>ceiving the Sacrament of the Lords Supper, and <hi>withall</hi>
+               <pb n="6" facs="tcp:64043:5"/> their power of keeping the unworthy from it, be not the higher to advance their perſons and authority amongſt the people? And whether the Miniſters Authoritative Examination of the Receiver, be not a Ground and In<g ref="char:EOLhyphen"/>let to that tyrannicall-unchriſtian yoke of <hi>Popiſh Private Confeſsion?</hi>
+            </p>
+            <p>Whether the <hi>Givers</hi> of the Sacrament ought not to be <milestone type="tcpmilestone" unit="unspecified" n="XV"/> qualified as well as the <hi>Receivers?</hi> And whether they be fit <hi>Givers</hi> thereof, who apparently to the whole World are ſwollen up ready to burſt with avarice, pride, uncharitableneſſe; Who make it a light matter to wreſt GOD's Holy Word, and (when they pleaſe) to deny it; Who reject the teſtimony, practice, power and autho<g ref="char:EOLhyphen"/>rity of <hi>the Holy Catholick Church,</hi> &amp; by conſequence have renounced their very <hi>Creed;</hi> Who, if <hi>antient,</hi> are notori<g ref="char:EOLhyphen"/>ouſly perjur'd in the manifold breach of their Miniſterial Oathes; and if <hi>Novices,</hi> they <hi>preach before they be ſent,</hi> unleſſe without Preſident of Scripture and contrary to the Practice of all Apoſtolick Churches, the Miniſters of ſix or eight Pariſhes, met together of their own heads, may lay on hands and <hi>devoutly</hi> Ordain, whom and as many as their Wiſdomes think fit? And by the ſame reaſon, why may not the Conſtables of ſix Pariſhes meet together, and there <hi>gravely</hi> elect a Conſtable for the ſeventh Pariſh, or for as many Pariſhes as their Wiſ<g ref="char:EOLhyphen"/>domes pleaſe? Are Conſtables ſo elected Lawfull Con<g ref="char:EOLhyphen"/>ſtables? And are ſuch Miniſters as theſe Lawfull Mi<g ref="char:EOLhyphen"/>niſters? Whether are ſuch Miniſters as theſe fit <hi>Givers</hi> of Chriſts moſt Holy Sacrament? Let Conſcience, let Reaſon, let even Turks and Indians ſpeak.</p>
+            <closer>Halelu-Jah.</closer>
+            <pb facs="tcp:64043:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
